@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dan Shumayev
+- 👀 I’m interested in Cyber Security in general, and in Reverse Engineering and Vulnerability Research in particular.
+- 🌱 I am currently pursuing my bachelor's degree in Computer Science at the Hebrew University of Jerusalem, and working as a Cyber Security intern at CYE.
+- 📫 You can reach me via computersciencedans@gmail.com
